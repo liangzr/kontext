@@ -60,15 +60,24 @@ body {
 }
 
 .layer.one {
-	background: #dc6c5f;
+	background-image: url(../image/background_1.jpg);
+	background-repeat:no-repeat;
+	background-position:0% 0%;
+	background-size:cover;
 }
 
 .layer.two {
-	background: #95dc84;
+	background-image: url(../image/background_2.jpg);
+	background-repeat:no-repeat;
+	background-position:0% 0%;
+	background-size:cover;
 }
 
 .layer.three {
-	background: #64b9d2;
+	background-image: url(../image/background_3.jpg);
+	background-repeat:no-repeat;
+	background-position:0% 0%;
+	background-size:cover;
 }
 
 .bullets {
